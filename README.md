@@ -221,18 +221,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📸 Screenshots
-
-> 🖼️ *Add screenshots of your games in action here*
-
----
-
 <div align="center">
 
 ### 🌟 **Star this repository if you found it helpful!** 🌟
 
 **Made with ❤️ and Python**
-
-[![Star History Chart](https://api.star-history.com/svg?repos=qusai-Kagalwala/interactive-geography-games&type=Date)](https://star-history.com/#qusai-Kagalwala/interactive-geography-games&Date)
 
 </div>
